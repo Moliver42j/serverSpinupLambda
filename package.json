@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@aws-sdk/client-ec2": "^3.316.0",
-    "aws-sdk": "^2.1363.0"
+    "aws-sdk": "^2.1363.0",
+    "discord.js": "^14.9.0"
   }
 }
